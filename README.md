@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nazmul hosen</h1>
+<h1 align="center">Hi, I'm Nazmul hosen</h1>
 <h3 align="center">Web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulhosens&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulhosens" /> </p>
