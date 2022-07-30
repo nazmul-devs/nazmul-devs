@@ -1,10 +1,20 @@
 ![I am a Web developer](https://i.ibb.co/2SXtfyN/Igit.jpg)
 
-I'm Nazmul from Bangladesh, and I  am a Web developer. I really enjoy learning languages and frameworks like React, React Native and Node, as well as work in MongoDb. I also enjoy web development design and createing website.
+My name is
+Nazmul hosen, and I am from Dhaka Bangladesh. I'm studying in alhaz mokbul hosen
+university college at Computer science and engineering. recently I completed my web
+development course with jhankar mahbub. My forte is in Front-end web development but
+I am open and very enthusiastic to learn new languages and technologies. I'm an expert in
+
+React, MongoDB, Node Express, HTML, CSS, and javascript. I've recently done some full-
+stack projects that have been added to my portfolio and my resume. I feel comfortable
+
+with react js and frontend web development. so I want to see myself as a professional
+full-stack web developer.
 
 
 
-Skills: NODE/ REACT / JS / HTML / CSS
+Skills: HTML, CSS, Bootstrap, Tailwind, Javascript, Typescript, DOM, API, ES6, React, Router, Redux, Node, Express, Mongodb, Authentication.  
 
 
 
