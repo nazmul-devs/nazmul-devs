@@ -19,7 +19,7 @@ Skills: HTML, CSS, Bootstrap, Tailwind, Javascript, Typescript, DOM, API, ES6, R
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazmulhosens) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/nazmul-ahmed-598491200//](https://www.linkedin.com/in/nazmulhosens/)) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazmulhosens/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nazmulahmeds/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhosens)](https://github.com/anuraghazra/github-readme-stats)
