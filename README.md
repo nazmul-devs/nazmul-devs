@@ -22,7 +22,7 @@ using hands-on experience developing web apps. </dd>
 <h2>Contact</h2>
 </hr>
 <a href="[https://www.w3schools.com](https://github.com/nazmulhosens)" target="_blank">
-<img src="[img_girl.jpg](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="30" height="30">
   
   </a>
 
