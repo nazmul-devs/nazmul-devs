@@ -1,6 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhosens)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://i.ibb.co/68XyCp7/Nazmul.jpg" width="250" style="float:right" >
+<img src="https://i.ibb.co/68XyCp7/Nazmul.jpg" width="200" >
 
 
 
@@ -29,16 +27,19 @@ using hands-on experience developing web apps. </dd>
 <h2>Contact</h2>
 </hr>
 <a href="https://github.com/nazmulhosens" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="30" height="30" style="margin-right:20px;"  >  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="30" height="30" >  
   </a>
   
   <a href="https://www.linkedin.com/in/nazmulhosens" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30" style="margin:10px;"  >  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"   >  
   </a>
   <a href="https://www.facebook.com/nazmulhosens" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30" height="30" style="margin:10px;"  >  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30" height="30"   >  
   </a>
 
+
+</br>
+</br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhosens)](https://github.com/anuraghazra/github-readme-stats)
