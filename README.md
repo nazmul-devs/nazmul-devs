@@ -1,8 +1,8 @@
 
 <dl>
   
-
- Full Stack Software Developer with 1 year of experience designing and implementing successful web applications. Proficient in HTML, CSS, JavaScript, TypeScript, React.js , Redux, Node.js, Express.js, MySQL And MongoDB  . Adept at developing both front-end and back-end systems and ensuring seamless integration between the two. Skilled in front-end and back-end technologies,  database management systems, Ability to work independently or as part of a team, Continuous learning and staying up-to-date with industry advancements. Proven track record of delivering high-quality, scalable, and user-friendly solutions that meet the needs of clients and end-users. Committed to staying current with industry trends and advancements to continuously improve the user experience.
+  <h5> Hi I,m Nazmul Hosen </h5>
+I,m a Full Stack Software Developer with 1 year of experience designing and implementing successful web applications. Proficient in HTML, CSS, JavaScript, TypeScript, React.js , Redux, Node.js, Express.js, MySQL And MongoDB  . Adept at developing both front-end and back-end systems and ensuring seamless integration between the two. Skilled in front-end and back-end technologies,  database management systems, Ability to work independently or as part of a team, Continuous learning and staying up-to-date with industry advancements. Proven track record of delivering high-quality, scalable, and user-friendly solutions that meet the needs of clients and end-users. Committed to staying current with industry trends and advancements to continuously improve the user experience.
 </dl>
 
 </br>
