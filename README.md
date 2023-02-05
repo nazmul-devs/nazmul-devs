@@ -1,17 +1,8 @@
-<img src="https://i.ibb.co/68XyCp7/Nazmul.jpg" width="200" >
-
-
-
 
 <dl>
   
-  <h2>About me</h2>
-  </hr>
-  <h6>Hi I'm Nazmul Hosen and I'm a Software Developer</h6>
-  <dd>Enthusiastic Software Developer able to apply Backend and
-Frontend skills in various applications. Seeking to join
-as a Software Developer to help Build and Develop applications
-using hands-on experience developing web apps. </dd>
+
+ Full Stack Software Developer with 1 year of experience designing and implementing successful web applications. Proficient in HTML, CSS, JavaScript, TypeScript, React.js , Redux, Node.js, Express.js, MySQL And MongoDB  . Adept at developing both front-end and back-end systems and ensuring seamless integration between the two. Skilled in front-end and back-end technologies,  database management systems, Ability to work independently or as part of a team, Continuous learning and staying up-to-date with industry advancements. Proven track record of delivering high-quality, scalable, and user-friendly solutions that meet the needs of clients and end-users. Committed to staying current with industry trends and advancements to continuously improve the user experience.
 </dl>
 
 </br>
