@@ -8,8 +8,7 @@ I,m a Full Stack Software Developer with 1 year of experience designing and impl
 </br>
 
 <a href="https://drive.google.com/uc?id=1eZOpU5OKboc29XnOFk9QVCGyhimm5fBa&export=download"    >
-<img src="https://cdn.pixabay.com/photo/2018/06/28/03/24/document-3503099_1280.png" width="30" height="30">
-  Resume
+<img src="https://icon-library.com/images/file-download-icon-png/file-download-icon-png-9.jpg" width="30" height="30">
   </a>
 
 
