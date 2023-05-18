@@ -8,7 +8,7 @@ I,m a Full Stack Software Developer with 1 year of experience designing and impl
 </br>
 
 <a href="https://drive.google.com/uc?id=1eZOpU5OKboc29XnOFk9QVCGyhimm5fBa&export=download"    >
-<img src="[https://uxwing.com/wp-content/themes/uxwing/download/business-professional-services/resume-cv-icon.png](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60)" width="30" height="30">
+<img src="https://cdn.pixabay.com/photo/2018/06/28/03/24/document-3503099_1280.png" width="30" height="30">
   Resume
   </a>
 
@@ -18,14 +18,14 @@ I,m a Full Stack Software Developer with 1 year of experience designing and impl
 <h2>Contact</h2>
 </hr>
 <a href="https://github.com/nazmulhosens" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="30" height="30" >  
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30" >  
   </a>
   
   <a href="https://www.linkedin.com/in/nazmulhosens" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"   >  
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="30" height="30"   >  
   </a>
   <a href="https://www.facebook.com/nazmulhosens" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30" height="30"   >  
+<img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-512.png" width="30" height="30"   >  
   </a>
 
 
