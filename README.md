@@ -18,14 +18,14 @@ I,m a Full Stack Software Developer with 1 year of experience designing and impl
 <h2>Contact</h2>
 </hr>
 <a href="https://github.com/nazmulhosens" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30" >  
+<img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" width="30" height="30" >  
   </a>
   
   <a href="https://www.linkedin.com/in/nazmulhosens" target="_blank">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="30" height="30"   >  
   </a>
   <a href="https://www.facebook.com/nazmulhosens" target="_blank">
-<img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-512.png" width="30" height="30"   >  
+<img src="https://seeklogo.com/images/F/facebook-icon-logo-819DD0A07B-seeklogo.com.png" width="30" height="30"   >  
   </a>
 
 
