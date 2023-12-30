@@ -52,9 +52,9 @@ I'm a passionate Full Stack Developer with expertise in JavaScript, TypeScript, 
 - Practical Knowledge of RDMS
 - Practical Knowledge of Cloud Computing
 
-👨‍💻 **Experience:**
-### M360 ICT | March 2022 - Present
-#### Web Developer (Node.js) | Full Stack Developer
+### 👨‍💻 Experience:
+#### M360 ICT | March 2022 - Present
+**Web Developer (Node.js) | Full Stack Developer**
 
 As a Full Stack Developer at m360 ICT, I primarily focus on backend development, specializing in Node.js. In this role, I am responsible for designing databases, creating RESTful APIs, and collaborating with a team to develop front-end solutions. Key achievements include:
 
@@ -72,8 +72,8 @@ As a Full Stack Developer at m360 ICT, I primarily focus on backend development,
 
 I'm passionate about continuous learning and collaboration. Let's connect and explore the world of web development together!
 
-[![Linkedin Badge](https://img.shields.io/badge/-NazmulHosen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazmul-devs/)](https://www.linkedin.com/in/yourprofile/)
-[![GitHub Badge](https://img.shields.io/badge/-nazmulhosen-darkgreen?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/nazmulhosen)](https://github.com/nazmul-devs)
-[![Facebook Badge](https://img.shields.io/badge/-YourName-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nazmulhosens)](https://www.facebook.com/yourprofile)
-[![LeetCode Badge](https://img.shields.io/badge/-YourLeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/nazmul-devs/)](https://leetcode.com/yourleetcode/)
+[![Linkedin Badge](https://img.shields.io/badge/-NazmulHosen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazmul-devs/)](https://www.linkedin.com/in/nazmul-devs/)
+[![GitHub Badge](https://img.shields.io/badge/-NazmulHosen-darkgreen?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/nazmulhosen)](https://github.com/nazmul-devs)
+[![Facebook Badge](https://img.shields.io/badge/-NazmulHosen-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nazmulhosens)](https://www.facebook.com/nazmulhosens)
+[![LeetCode Badge](https://img.shields.io/badge/-NazmulHosen-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/nazmul-devs/)](https://leetcode.com/nazmul-devs/)
 [![Resume Badge](https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=flat-square&link=https://drive.google.com/uc?id=1vQlgkxc5omCpXCEkYoekucysFWFSKx94&export=download)](https://drive.google.com/uc?id=1vQlgkxc5omCpXCEkYoekucysFWFSKx94&export=download)
