@@ -52,7 +52,7 @@ I'm a passionate Full Stack Developer with expertise in JavaScript, TypeScript, 
 - Practical Knowledge of RDMS
 - Practical Knowledge of Cloud Computing
 
-### 👨‍💻 Experience:
+### Experience
 #### M360 ICT | March 2022 - Present
 **Web Developer (Node.js) | Full Stack Developer**
 
