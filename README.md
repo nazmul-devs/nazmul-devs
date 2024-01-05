@@ -72,8 +72,8 @@ As a Full Stack Developer at m360 ICT, I primarily focus on backend development,
 
 I'm passionate about continuous learning and collaboration. Let's connect and explore the world of web development together!
 
-[![Linkedin Badge](https://img.shields.io/badge/-NazmulHosen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazmul-devs/)](https://www.linkedin.com/in/nazmul-devs/)
-[![GitHub Badge](https://img.shields.io/badge/-NazmulHosen-darkgreen?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/nazmulhosen)](https://github.com/nazmul-devs)
-[![Facebook Badge](https://img.shields.io/badge/-NazmulHosen-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nazmulhosens)](https://www.facebook.com/nazmulhosens)
-[![LeetCode Badge](https://img.shields.io/badge/-NazmulHosen-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/nazmul-devs/)](https://leetcode.com/nazmul-devs/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazmul-devs/)](https://www.linkedin.com/in/nazmul-devs/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-darkgreen?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/nazmulhosen)](https://github.com/nazmul-devs)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nazmulhosens)](https://www.facebook.com/nazmulhosens)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/nazmul-devs/)](https://leetcode.com/nazmul-devs/)
 [![Resume Badge](https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=flat-square&link=https://drive.google.com/uc?id=1vQlgkxc5omCpXCEkYoekucysFWFSKx94&export=download)](https://drive.google.com/uc?id=1vQlgkxc5omCpXCEkYoekucysFWFSKx94&export=download)
