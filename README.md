@@ -1,62 +1,18 @@
-### 👋 Hello, I'm Nazmul Hosen!
+### Software Developer | Node.js Enthusiast | Python Practitioner
 
-I'm a passionate Full Stack Developer with expertise in JavaScript, TypeScript, and Node.js. Committed to building robust and scalable applications, I've successfully contributed to projects like Trabill (Tours and Travel Back Office Management) and Goayar (Ticketing and Booking Management OTA).
+I’m a passionate and results-driven developer with over 3 years of professional experience, specializing in:
 
-### Technical Skills
+🖥️ Backend Development: Node.js, Express.js, Python
+🛠️ Database Management: MySQL, PostgreSQL
+🌐 Frontend Expertise: React, TypeScript, JavaScript
+☁️ Cloud Technologies: AWS, Azure
 
-**Programming Languages:**
-- JavaScript
-- TypeScript
-- Python
+💡 I love creating clean, scalable, and efficient solutions, from e-commerce platforms to dynamic booking systems. I'm also skilled in algorithms, data structures, and building reusable components that simplify development processes.
 
-**Frontend Development:**
-- React.js
-- Next.js
-- Redux
-- Bootstrap
-- Tailwind
-- Material-UI
-- Ant Design
+📈 What drives me:
+I’m passionate about solving challenging problems, building impactful projects, and continuously learning new technologies to stay ahead in the ever-evolving world of software development.
 
-**Backend Development:**
-- Node.js
-- Express
-- Python
-- Flask
-
-**Database Management:**
-- MySQL
-- PostgreSQL
-- MongoDB
-
-**Web Technologies:**
-- REST API
-- Authentication (OAuth) and Authorization (JWT)
-
-**Cloud Technologies:**
-- Microsoft Azure
-- AWS (EC2, S3, Elastic Beanstalk, CodePipeline, Amplify)
-
-**Testing:**
-- Jest
-- Supertest
-
-**Development Tools:**
-- Jira
-- Confluence
-
-### Additional Skills
-
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Practical Knowledge of RDMS
-- Practical Knowledge of Cloud Computing
-
-### Experience
-#### M360 ICT | March 2022 - Present
-**Web Developer (Node.js) | Full Stack Developer**
-
-As a Full Stack Developer at m360 ICT, I primarily focus on backend development, specializing in Node.js. In this role, I am responsible for designing databases, creating RESTful APIs, and collaborating with a team to develop front-end solutions. Key achievements include:
+🌟 Fun Fact: I’m exploring advanced payment gateways and enhancing my knowledge of NestJS and API design.
 
 
 
@@ -67,7 +23,7 @@ As a Full Stack Developer at m360 ICT, I primarily focus on backend development,
 - Data Structures and Algorithms (Ongoing)
 
 🌐 **Check out my work:**
-- [Trabill](https://trabill.biz) - Tours and Travel Management Software
+- [booking Expert](https://www.bookingexpert.world/) - Tours and Travel Management Software
 - [Goayar](https://goayar.com) - OTA for Ticketing and Booking
 
 I'm passionate about continuous learning and collaboration. Let's connect and explore the world of web development together!
