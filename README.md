@@ -1,35 +1,48 @@
-### Software Developer | Node.js Enthusiast | Python Practitioner
+<h1 align="center">Hi there, I'm Nazmul Hosen</h1>
 
-I’m a passionate and results-driven developer with over 3 years of professional experience, specializing in:
+<p align="center">
+  <strong>Lead Software Developer | Node.js Developer | Backend & System Architecture Specialist</strong><br/>
+  Passionate about building scalable software solutions and leading high-impact engineering teams.
+</p>
 
-🖥️ Backend Development: Node.js, Express.js, Python
-🛠️ Database Management: MySQL, PostgreSQL
-🌐 Frontend Expertise: React, TypeScript, JavaScript
-☁️ Cloud Technologies: AWS, Azure
+---
 
-💡 I love creating clean, scalable, and efficient solutions, from e-commerce platforms to dynamic booking systems. I'm also skilled in algorithms, data structures, and building reusable components that simplify development processes.
+## 👨‍💻 About Me
 
-📈 What drives me:
-I’m passionate about solving challenging problems, building impactful projects, and continuously learning new technologies to stay ahead in the ever-evolving world of software development.
+I’m **Nazmul Hosen**, a senior software engineer and project manager at **Naria IT Solution**, where I lead cross-functional teams to build modern, scalable digital platforms. With over **3 years of professional experience** in backend and full-stack development, I specialize in building robust server-side applications and architecting distributed systems for the travel tech and enterprise domains.
 
-🌟 Fun Fact: I’m exploring advanced payment gateways and enhancing my knowledge of NestJS and API design.
+### 💼 What I Do
+- 🚀 **Project Management** – Leading full project life cycles from requirement analysis to deployment.
+- 🔧 **Backend Engineering** – Node.js, Express.js, TypeScript, Prisma, Knex, PostgreSQL, and MySQL.
+- 🧱 **System Architecture** – Designing microservices-based and modular monolithic architectures for B2B/B2C systems.
+- 🌐 **API Integrations** – Working with third-party APIs like Sabre, Travelport/Galileo, FitsAir, and custom payment gateways.
+- 🛫 **OTA Systems** – Building platforms like ShareTrip for flights, hotels, group ticketing, and Hajj/Umrah travel services.
+- 🧪 **Testing & Optimization** – Focused on performance, clean architecture (SOLID), and maintainable codebases.
+- 🧑‍🏫 **Mentorship & Leadership** – Guiding frontend and backend developers, conducting code reviews, and growing talent.
+
+### 🛠️ Tech Stack
+- **Languages:** TypeScript, JavaScript, SQL  
+- **Backend:** Node.js, Express, Prisma, Knex  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Frontend (basic):** React, Next.js, Redux Toolkit  
+- **DevOps & Tools:** Docker, PM2, GitHub Actions, CI/CD, Linux, SSH  
+- **Other:** REST APIs, Zod, ESLint, Stripe, SSE, OAuth
 
 
 
-👨‍💻 **Courses:**
-- Relational Database Fundamentals
-- The Complete Advanced Database and SQL Querying
-- Node.js API Masterclass with Express and MongoDB (Completed)
-- Data Structures and Algorithms (Ongoing)
+## 📫 Get In Touch
 
-🌐 **Check out my work:**
-- [booking Expert](https://www.bookingexpert.world/) - Tours and Travel Management Software
-- [Goayar](https://goayar.com) - OTA for Ticketing and Booking
+- 🌐 [Naria IT Solution](https://nariaitsolution.com)
+- 💼 [LinkedIn](https://linkedin.com/in/nazmul-devs)
+- 🧑‍💻 [GitHub](https://github.com/nazmul-devs)
+- 📝 [Dev.to](https://dev.to/nazmulhosen)
+- 📰 [Substack](https://substack.com/@nazmulhosens)
+- 📘 [Facebook](https://www.facebook.com/nazmulhosens/)
+- 📧 Email: [nazmulhosen.dev@gmail.com](mailto:nazmulhosen.dev@gmail.com)
+- 📞 Phone: +8801576755404
 
-I'm passionate about continuous learning and collaboration. Let's connect and explore the world of web development together!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazmul-devs/)](https://www.linkedin.com/in/nazmul-devs/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-darkgreen?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/nazmulhosen)](https://github.com/nazmul-devs)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nazmulhosens)](https://www.facebook.com/nazmulhosens)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/nazmul-devs/)](https://leetcode.com/nazmul-devs/)
-[![Resume Badge](https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=flat-square&link=https://drive.google.com/uc?id=1vQlgkxc5omCpXCEkYoekucysFWFSKx94&export=download)](https://drive.google.com/uc?id=1vQlgkxc5omCpXCEkYoekucysFWFSKx94&export=download)
+---
+
+_“I believe in building software that solves real-world problems and leading with clarity, collaboration, and continuous learning.”_
+
