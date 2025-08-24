@@ -1,45 +1,54 @@
-<h1 align="center">Hi there, I'm Nazmul Hosen</h1>
+# Hi, I'm Nazmul Ahmed 👋
 
-<p align="center">
-  <strong>Lead Software Developer | Node.js Developer | Backend & System Architecture Specialist</strong><br/>
-  Passionate about building scalable software solutions and leading high-impact engineering teams.
-</p>
+🚀 Senior Software Engineer | Project Manager @ [Naria IT Solution](https://nariaitsolution.com)  
+💡 Passionate about building scalable backend systems, leading teams, and solving real-world problems with technology.
+
+
+![svg](https://raw.githubusercontent.com/nazmul-devs/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+
+
+
+
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
+- 🔭 Currently working on **OTA (Online Travel Agency) platforms**, accounting software, and scalable APIs.  
+- 🌱 Exploring **system design, competitive programming, and AI integration**.  
+- 👯 Open to collaboration on **backend-heavy projects, SaaS products, and open-source tools**.  
+- 🏆 Goal: Crack **FAANG-level backend interviews** and build world-class solutions.  
 
-I’m **Nazmul Hosen**, a senior software engineer and project manager at **Naria IT Solution**, where I lead cross-functional teams to build modern, scalable digital platforms. With over **3 years of professional experience** in backend and full-stack development, I specialize in building robust server-side applications and architecting distributed systems for the travel tech and enterprise domains.
 
-### 💼 What I Do
-- 🚀 **Project Management** – Leading full project life cycles from requirement analysis to deployment.
-- 🔧 **Backend Engineering** – Node.js, Express.js, TypeScript, Prisma, Knex, PostgreSQL, and MySQL.
-- 🧱 **System Architecture** – Designing microservices-based and modular monolithic architectures for B2B/B2C systems.
-- 🌐 **API Integrations** – Working with third-party APIs like Sabre, Travelport/Galileo, FitsAir, and custom payment gateways.
-- 🛫 **OTA Systems** – Building platforms like ShareTrip for flights, hotels, group ticketing, and Hajj/Umrah travel services.
-- 🧪 **Testing & Optimization** – Focused on performance, clean architecture (SOLID), and maintainable codebases.
-- 🧑‍🏫 **Mentorship & Leadership** – Guiding frontend and backend developers, conducting code reviews, and growing talent.
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nazmul-devs&theme=tokyo-night&hide_border=true)
+---
 
 ### 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, SQL  
-- **Backend:** Node.js, Express, Prisma, Knex  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Frontend (basic):** React, Next.js, Redux Toolkit  
-- **DevOps & Tools:** Docker, PM2, GitHub Actions, CI/CD, Linux, SSH  
-- **Other:** REST APIs, Zod, ESLint, Stripe, SSE, OAuth
+**Languages & Frameworks:**  
+`Node.js` · `Express` · `TypeScript` · `JavaScript` · `Next.js` · `React`  
+
+**Databases:**  
+`PostgreSQL` · `MySQL` · `MongoDB` · `Prisma` · `Knex.js`  
+
+**Tools & Practices:**  
+`OOP` · `SOLID Principles` · `Microservices` · `REST APIs` · `Event-driven architecture`  
+`Git` · `Docker` · `Redis` · `BullMQ`  
+
+---
 
 
+### 📈 GitHub Stats
+![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul-devs&show_icons=true&theme=tokyonight)  
 
-## 📫 Get In Touch
+---
 
-- 🌐 [Naria IT Solution](https://nariaitsolution.com)
-- 💼 [LinkedIn](https://linkedin.com/in/nazmul-devs)
-- 🧑‍💻 [GitHub](https://github.com/nazmul-devs)
-- 📝 [Dev.to](https://dev.to/nazmulhosen)
-- 📰 [Substack](https://substack.com/@nazmulhosens)
-- 📘 [Facebook](https://www.facebook.com/nazmulhosens/)
-- 📧 Email: [nazmulhosen.dev@gmail.com](mailto:nazmulhosen.dev@gmail.com)
-- 📞 Phone: +8801576755404
+### 🌍 Connect with Me
+- 💼 [Portfolio Website](https://nazmulhosen.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nazmul-devs/)  
+- 🐦 [Twitter](https://x.com/nazmulhosen404)  
+
+---
+⭐️ *Always eager to learn, share, and contribute to impactful projects.*
 
 
 ---
