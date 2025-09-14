@@ -39,7 +39,6 @@
 
 
 ### 📈 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=nazmul-devs&theme=tokyonight&hide_border=false)
 ![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul-devs&show_icons=true&theme=tokyonight)  
 
 ---
