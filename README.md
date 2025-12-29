@@ -1,4 +1,4 @@
-# Hi, I'm Nazmul Ahmed 👋
+# Hi, I'm Nazmul Hosen 👋
 
 🚀 Senior Software Engineer | Project Manager @ [Naria IT Solution](https://nariaitsolution.com)  
 💡 Passionate about building scalable backend systems, leading teams, and solving real-world problems with technology.
