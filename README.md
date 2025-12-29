@@ -1,7 +1,7 @@
-# Hi, I'm Nazmul Hosen 👋
+# Hi, I'm Nazmul Hosen
 
-🚀 Senior Software Engineer | Project Manager @ [Naria IT Solution](https://nariaitsolution.com)  
-💡 Passionate about building scalable backend systems, leading teams, and solving real-world problems with technology.
+Senior Software Engineer | Project Manager @ [Naria IT Solution](https://nariaitsolution.com)  
+Passionate about building scalable backend systems, leading teams, and solving real-world problems with technology.
 
 
 ![svg](https://raw.githubusercontent.com/nazmul-devs/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
@@ -46,10 +46,10 @@
 ### 🌍 Connect with Me
 - 💼 [Portfolio Website](https://nazmulhosen.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nazmul-devs/)  
-- 🐦 [Twitter](https://x.com/nazmulhosen404)  
+- x [Twitter](https://x.com/nazmulhosen404)  
 
 ---
-⭐️ *Always eager to learn, share, and contribute to impactful projects.*
+*Always eager to learn, share, and contribute to impactful projects.*
 
 
 ---
