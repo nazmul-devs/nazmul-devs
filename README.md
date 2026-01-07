@@ -21,9 +21,6 @@ Passionate about building scalable backend systems, leading teams, and solving r
 
 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nazmul-devs&theme=tokyo-night&hide_border=true)
----
-
 ### 🛠️ Tech Stack
 **Languages & Frameworks:**  
 `Node.js` · `Express` · `TypeScript` · `JavaScript` · `Next.js` · `React`  
@@ -38,15 +35,10 @@ Passionate about building scalable backend systems, leading teams, and solving r
 ---
 
 
-### 📈 GitHub Stats
-![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul-devs&show_icons=true&theme=tokyonight)  
-
----
-
 ### 🌍 Connect with Me
 - 💼 [Portfolio Website](https://nazmulhosen.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nazmul-devs/)  
-- x [Twitter](https://x.com/nazmulhosen404)  
+- 🐦 [Twitter](https://x.com/nazmulhosen404)  
 
 ---
 *Always eager to learn, share, and contribute to impactful projects.*
